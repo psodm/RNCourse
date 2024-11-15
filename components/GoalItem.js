@@ -25,8 +25,8 @@ const styles = StyleSheet.create({
     padding: 8,
   },
   pressedItem: {
-    opacity: 0.5
-  }
+    opacity: 0.5,
+  },
 });
 
 export default GoalItem;
